@@ -1,0 +1,7 @@
+C:\Users\Selman\Documents\GitHub\CSharp-Egitim-Kampi\08_Methods\bin\Debug\08_Methods.exe.config
+C:\Users\Selman\Documents\GitHub\CSharp-Egitim-Kampi\08_Methods\bin\Debug\08_Methods.exe
+C:\Users\Selman\Documents\GitHub\CSharp-Egitim-Kampi\08_Methods\bin\Debug\08_Methods.pdb
+C:\Users\Selman\Documents\GitHub\CSharp-Egitim-Kampi\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\Users\Selman\Documents\GitHub\CSharp-Egitim-Kampi\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Selman\Documents\GitHub\CSharp-Egitim-Kampi\08_Methods\obj\Debug\08_Methods.exe
+C:\Users\Selman\Documents\GitHub\CSharp-Egitim-Kampi\08_Methods\obj\Debug\08_Methods.pdb
